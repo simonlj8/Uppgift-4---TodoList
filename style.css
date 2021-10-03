@@ -1,0 +1,22 @@
+html{
+    height: 100vh;
+    min-width: 600px;
+    background-image:  linear-gradient(130deg, #FFFFFF, #1C3F80);
+    background-repeat: no-repeat;
+}
+body{
+    text-align: center;
+}
+
+.completed{
+
+    text-decoration: line-through;
+    color: #888;
+}
+
+.thrascan{
+
+    font-size: 25px;
+    margin-left: 25px;
+    cursor: crosshair;
+}
